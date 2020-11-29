@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Weekly Time Log 8
 
-You can use the [editor on GitHub](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Date 11-2-2020
+- Hours Spent: 0
+- Work Description: Zero Day due to other coursework, as per usual
 
-### Markdown
+# Date 11-3-2020
+- Hours Spent: 4
+- Work Description: Began placing lighting and modifying textures within side scroller prototype template
+- Began adding new geometry  to side scroller prototype template
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Date 11-4-2020
+- Hours Spent: 5
+- Work Description: Researched instructions as to how to quickly develop a melee combat system in Unreal Engine
+- Researched instructions as to how to modify gravity in Unreal Engine
 
-```markdown
-Syntax highlighted code block
+# Date 11-5-2020
+- Hours Spent: 0
+- Work Description: Zero day to perform research for research paper in another class
 
-# Header 1
-## Header 2
-### Header 3
+# Date 11-6-2020
+- Hours Spent: 6
+- Work Description: Imported and implemented existing character assets from Unreal Engine store, as development of original assets proved infeasible
+- Began implementing melee combat system instructions assembled on previous day
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Date 11-7-2020
+- Hours Spent: 5
+- Work Description: Further modified melee combat system, lighting, and textures
+- Added more geometry to environment, to make background design more interesting
 
-**Bold** and _Italic_ and `Code` text
+# Date 11-8-2020
+- Hours Spent: 0
+- Work Description: Zero Day due to attempting to come to grips with visual design program required for assignment due next Sunday in another class, worth 40% of total course grade in that class
 
-[Link](url) and ![Image](src)
+# Total Hours Spent
+- 159 
+
+[Return to Time Logs](https://tkfromthe90s.github.io/TKfromthe90s.github.io-weekly-time-logs/)
+[Return to Homepage](https://tkfromthe90s.github.io/)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
